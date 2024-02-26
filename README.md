@@ -14,15 +14,18 @@ Dotfiles are a very personal thing, and these are by no means comprehensive, up-
 
 ## TODO:
 
-Get this set up for Linux. Implement YADM. Add universal setup
+<!-- Get this set up for Linux. Implement YADM. Add universal setup -->
 
 #### Automatically Install Softwares I Need for Codez
 
 - [Homebrew](https://brew.sh)
 - [asdf](https://asdf-vm.com/guide/introduction.html) (node.js, npm, python latest, pip, ruby, bundler)
-- Rust and cargo via [rustup](https://www.rust-lang.org/tools/install)
-- Astrovim
-- Treesitter (with cargo)
+<!-- 
 - lazygit (with homebrew)
 - go disk usage (`brew install -f gdu` and `brew link --overwrite gdu  # if you have coreutils installed as well`)
+- Treesitter (with cargo)
 - bottom (with cargo https://github.com/ClementTsang/bottom)
+- Astrovim
+- Rust and cargo via [rustup](https://www.rust-lang.org/tools/install)
+
+-->
