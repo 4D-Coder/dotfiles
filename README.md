@@ -13,19 +13,17 @@ Dotfiles are a very personal thing, and these are by no means comprehensive, up-
 
 ## CHECKLIST:
 ### Headless + Local Workstations
-- [ZSHELL]
-- [OhMyZsh]
-- [Micro CLE]
-- [Homebrew]()(optional for non-Mac envs)
+- [ZSHELL](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
+- [OhMyZsh](https://ohmyz.sh/)
+- [Micro CLEditor](https://github.com/zyedidia/micro)
+- [Homebrew](https://brew.sh/) (optional for non-Mac envs)
   ### Local Only
-  - [VSCode]
-  - 
+- [VSCode](https://code.visualstudio.com/) 
   
 <!-- Get this set up for Linux. Implement YADM. Add universal setup -->
 
 #### Automatic Installation of Environment Tools 
 
-- [Homebrew](https://brew.sh)
 - [asdf](https://asdf-vm.com/guide/introduction.html) (node.js, npm, python latest, pip, ruby, bundler)
 <!-- 
 - lazygit (with homebrew)
