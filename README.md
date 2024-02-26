@@ -11,8 +11,16 @@ Dotfiles are a very personal thing, and these are by no means comprehensive, up-
 
 **Please don't blame me if you try something here and it breaks your existing configs.**
 
-## TODO:
-
+## CHECKLIST:
+### Headless + Local Workstations
+- [ZSHELL]
+- [OhMyZsh]
+- [Micro CLE]
+- [Homebrew]()(optional for non-Mac envs)
+  ### Local Only
+  - [VSCode]
+  - 
+  
 <!-- Get this set up for Linux. Implement YADM. Add universal setup -->
 
 #### Automatic Installation of Environment Tools 
