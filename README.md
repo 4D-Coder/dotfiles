@@ -1,7 +1,7 @@
 ## About
 A simple repository to store and track system configs I use in my development environemnt to expedite setup for new work systems.
 
-As my mentor [@Mycobee](https://github.com/Mycobee) says: "Using someone elses configs are like wearing someone else's socks. Sure you can use them, but you should soon want to just use your own."
+As my mentor [@Mycobee](https://github.com/Mycobee](https://github.com/Mycobee/dotfiles/tree/master) says: "Using someone elses configs are like wearing someone else's socks. Sure you can use them, but you should soon want to just use your own."
 
 Seeing as this repo's structure was guided by theirs, I'll also extend the invitation for you to feel free to take any of this and use it however you want however, [Disclaimer](#Disclaimer).
 
