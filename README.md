@@ -1,8 +1,9 @@
 ## About
+A simple repository to store and track system configs I use in my development environemnt to expedite setup for new work systems.
 
-This is a very rough repo attempting to keep track of the configs I generally use on work laptops, usually MacOS. By and large I like to keep things simple. The Rails dev in me prefers less configuration and more convention. But the SysAdmin in me feels compelled to configure things from time to time.
+As my mentor @mycobee says: "Using someone elses confings are like wearing someone else's socks. Sure you can use them, but you should soon want to just use your own."
 
-Feel free to take any of this and use it however you want.
+Seeing as this repo's structure is guided by his, I'll also extend the invitation for you to feel free to take any of this and use it however you want however, [Disclaimer](#Disclaimer).
 
 ### Disclaimer
 
@@ -10,13 +11,11 @@ Dotfiles are a very personal thing, and these are by no means comprehensive, up-
 
 **Please don't blame me if you try something here and it breaks your existing configs.**
 
-*this^^ should be obvious...not my chair, not my problem*
-
 ## TODO:
 
 <!-- Get this set up for Linux. Implement YADM. Add universal setup -->
 
-#### Automatically Install Softwares I Need for Codez
+#### Automatic Installation of Environment Tools 
 
 - [Homebrew](https://brew.sh)
 - [asdf](https://asdf-vm.com/guide/introduction.html) (node.js, npm, python latest, pip, ruby, bundler)
